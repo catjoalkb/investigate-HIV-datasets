@@ -1,4 +1,4 @@
-This Python notebook investiages a few HIV [datasets](https://github.com/catjoalkb/investigate-HIV-datasets/tree/master/dataset) and demostrates some findings with exploratory data analysis. 
+This Python notebook investiages a few HIV [datasets](https://github.com/wctjerry/investigate-HIV-datasets/tree/master/dataset) and demostrates some findings with exploratory data analysis. 
 
 
 
@@ -10,4 +10,4 @@ The main findings are:
 
 
 
-This notebook follows a standard data analysis workflow, which consists of data collection and wrangling, exploratory data analysis and visualization. The full analysis can be found [here](https://catjoalkb.github.io/investigate-HIV-datasets/investigate-HIV-datasets.html).
+This notebook follows a standard data analysis workflow, which consists of data collection and wrangling, exploratory data analysis and visualization. The full analysis can be found [here](https://wctjerry.github.io/investigate-HIV-datasets/investigate-HIV-datasets.html).
